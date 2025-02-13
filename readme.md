@@ -46,8 +46,7 @@ Every time the fish makes a trade, the data is logged in `stocks_bought.csv` lik
 ## 📊 Live Demo  
 
 Check out the madness in action:  
-[![Fishy Stocks Demo](https://img.youtube.com/vi/GMwkam-gtKg/0.jpg)](https://youtu.be/GMwkam-gtKg?si=MbKtkWoet21IuI1d)  
-
+![Fishy Stocks Demo](demo.gif)  
 
 
 ## 🔮 Can a Goldfish Predict the Market?  
